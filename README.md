@@ -20,8 +20,22 @@ This project included a character in six different states: neutral, joy, sadness
 <img width="1322" height="885" alt="Untitled-2" src="https://github.com/user-attachments/assets/ada9de7b-47d6-4b40-a32e-68ef478e5c98" />
 The models were made in Blender. Next they were imported to Mixamo to create the rig and cleaned manually in Unreal.
 ### Motion Capture with Rokoko Vision
+<img width="1629" height="770" alt="Screenshot 2026-05-10 at 19 28 48" src="https://github.com/user-attachments/assets/78bf5539-0aab-4a2e-be4e-fc3343e54515" />
+There were captured and exported ten different movements showing the emotions.
 ### Testing Preparation
+Testing preparation was done using Unreal Engine.
+<img width="1670" height="903" alt="Screenshot 2026-05-10 at 19 33 18" src="https://github.com/user-attachments/assets/14cceac0-3e30-4533-b6fe-96619f6011cd" />
+The character's skeleton was retargeted to the defaul one from Unreal. Next, the animations were imported and retargeted. Based on the prepared questionnaire, selected models were animated to show a specific emotion.
+<img width="2231" height="1073" alt="Untitled-4" src="https://github.com/user-attachments/assets/12d48745-8312-45f8-ae5f-d7c237a32f86" />
 ### Testing (Motion Capture with Rokoko)
+Testing exami ed how visual design and movement influence perception of a digital character expressing five emotions. Participants first observed and rated the character, then embodied it through movement. Lastly, they described their movement using Labal Movement Analysis movement qualities.\
+Procedure:\
+The questionnaire started with introduction and GDPR consent.\
+Then the participants were assigned to one of the four sets. Each set included two stages.\
+In the first stage, the participant watched a digital character expressing two different emotions. After each presentation, they were asked to answer which description of the character was the most accurate between options: joy, sadness, anger, disgust or fear.\
+In the second stage, the participant embodied the emotion. Recorded movement was applied on the character using a Rokoko suit and Unreal Engine. After each embodiment, they were asked to describe their movement using Laban Movement Analysis movement qualities (introduced in an common language). Secondly, they were again asked to answer which description of the character was the most accurate between options: joy, sadness, anger, disgust or fear. Lastly, they needed to rank to what extend their movement influenced how the character felt.
+
+  
 ### Test Outcomes
 ### Applied
 
