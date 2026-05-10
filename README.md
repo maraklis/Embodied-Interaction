@@ -59,9 +59,18 @@ In conclusion (refer to the RQ).
 Based on the research, this project indicates which emotions relate to what movement quality. Below you can see how the participants reflected their experience. 
 
 ### Applied
+#### Idea and Purpose
 Lastly, I created a prototype game showcasing how this project could be used in a real-life scenario. The game helps the player identify their emotion, feel it, envision it and finally embody it. 
 Body stores a lot of memories and traumas. Trying to feel the body, identify how it changes and which parts are effected by a specific emotion help to cope with uncomfortable situations. 
 As a result, they learn that the emotions are "companions" which support them, instead of leading them. They also learn how to navigate and become more emotionally intelligent.
 After a more in-depth research and collaboration with clinical settings, this project could be used as a part of therapy.
+#### Storyboarding and Scripting
+<img width="3538" height="2396" alt="Untitled-6-2" src="https://github.com/user-attachments/assets/00ba555b-3c4b-4bb8-bf2f-2e67d47c5071" />
+#### Animation
+Procreate and Premiere Pro were used to create 2D frame-by-frame animation shots and for editing. Next, audio was recorded using a phone and sound effect and background music was used from Freesound.
+<img width="2905" height="1712" alt="Untitled-7" src="https://github.com/user-attachments/assets/86e0c13c-c883-4b18-9422-adbf1003a181" />
+
+
+
 
 
