@@ -24,25 +24,30 @@ The aim was to create visual identities that could immediately communicate emoti
 ### Character Modelling and Rigging
 <img width="1322" height="885" alt="Untitled-2" src="https://github.com/user-attachments/assets/ada9de7b-47d6-4b40-a32e-68ef478e5c98" />
 
+
 The models were created in Blender and imported into Mixamo for rigging. The rigs were later cleaned and adjusted manually inside Unreal Engine to prepare them for animation retargeting and motion capture integration.
 
 ### Motion Capture with Rokoko Vision
 <img width="1629" height="770" alt="Screenshot 2026-05-10 at 19 28 48" src="https://github.com/user-attachments/assets/78bf5539-0aab-4a2e-be4e-fc3343e54515" />
+
 
 To express emotions physically, motion capture performances were recorded using Rokoko Vision. Ten movement sequences were captured and exported, each representing different emotional qualities connected to the selected emotions.
 
 ### Testing Preparation in Unreal Engine
 <img width="1670" height="903" alt="Screenshot 2026-05-10 at 19 33 18" src="https://github.com/user-attachments/assets/14cceac0-3e30-4533-b6fe-96619f6011cd" />
 
+
 The testing environment and interaction flow were developed in Unreal Engine.
 The character skeleton was retargeted to Unreal Engine’s default mannequin skeleton. The captured animations were imported and retargeted to the final character models. Different combinations of movement and visual appearance were prepared to either emotionally match or intentionally conflict.
 
 <img width="2231" height="1073" alt="Untitled-4" src="https://github.com/user-attachments/assets/12d48745-8312-45f8-ae5f-d7c237a32f86" />
 
+
 This setup allowed the project to examine whether participants prioritised movement or visual appearance when interpreting personality and emotion.
 
 ### User Testing and Embodied Interaction
 The study involved eight participants and combined observation with embodied interaction using Rokoko motion capture and Unreal Engine.
+
 #### Stage One: Observation
 Participants first observed animated characters expressing emotions. Some combinations matched emotionally, while others intentionally conflicted. \
 After each presentation, participants selected which emotion they believed the character expressed most strongly: 
@@ -51,14 +56,19 @@ After each presentation, participants selected which emotion they believed the c
 - Anger
 - Disgust
 - Fear
+
 #### Stage Two: Embodiment
 In the second stage, participants physically embodied the character themselves. \
 Using Rokoko motion capture, participants performed emotional movement that was applied directly to the digital character in real time. After each embodiment session, participants described their movement using simplified Laban Movement Analysis terminology. \
 They then repeated the emotional perception task and rated how strongly their own movement influenced how the character emotionally felt.
+
+#### Test
+Test link: https://docs.google.com/forms/d/e/1FAIpQLSe_dhthRZ6LKWrkA_9eZqBAnmjcOnmwupbYBL3ktX_E4JAzLw/viewform?pli=1&pli=1&pli=1 .
   
 ### Test Outcomes
 Main insights
 <img width="1536" height="768" alt="Untitled-5" src="https://github.com/user-attachments/assets/6d03892d-811e-48fc-8e18-c11c527c3d57" />
+
 
 The findings showed a clear shift after embodiment. \
 During the observation stage, when movement and visual appearance conflicted, 62.5% of participants relied mainly on visual appearance to identify the character’s emotional personality, while 37.5% prioritised movement. \
@@ -87,6 +97,8 @@ The experience also reframes emotions not as problems to remove, but as companio
 
 #### Animation
 <img width="2905" height="1712" alt="Untitled-7" src="https://github.com/user-attachments/assets/86e0c13c-c883-4b18-9422-adbf1003a181" />
+
+
 2D frame-by-frame animations were created using Procreate and edited in Premiere Pro. Organic animated transitions were used to visualise emotional transformation and internal emotional states. 
 
 Voice narration was recorded using a phone microphone, while background music and sound effects from Freesound were used to create an immersive atmosphere. 
