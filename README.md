@@ -53,8 +53,15 @@ Main insights answering the research question
 
 The main insight was that all participants felt that their movement influenced how the character felt. The average impact was 4 out of 5.
 Next, first stage based on observation showed that were the visual appearance and movement of the character conflicted, 62.5% of participants chose the visual element to describe the personality, while the rest 37.5% chose the movement. However after embodying, the amount of the participants choosing the movement increased to 87.5%, leaving 12.5% for the participnts who focused on the visual.
-In conclusion (refer to the RQ)
+In conclusion (refer to the RQ).
+
+### Framework Connecting Laban Movement Analysis to Emotions
+Based on the research, this project indicates which emotions relate to what movement quality. Below you can see how the participants reflected their experience. 
 
 ### Applied
+Lastly, I created a prototype game showcasing how this project could be used in a real-life scenario. The game helps the player identify their emotion, feel it, envision it and finally embody it. 
+Body stores a lot of memories and traumas. Trying to feel the body, identify how it changes and which parts are effected by a specific emotion help to cope with uncomfortable situations. 
+As a result, they learn that the emotions are "companions" which support them, instead of leading them. They also learn how to navigate and become more emotionally intelligent.
+After a more in-depth research and collaboration with clinical settings, this project could be used as a part of therapy.
 
 
