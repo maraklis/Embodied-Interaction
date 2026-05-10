@@ -137,4 +137,7 @@ The project also demonstrates how movement-based design can create stronger emot
 Gameplay video: https://youtu.be/-1qtKx0DC3o
 
 
+### Available Files
+Since GitHub does not allow large files, Unreal project used for testing cannot be fully uploaded. Instead the uproject, umap, Unreal Mannequin (mesh and rig), models with skeletons (.fbx) and animations can be found in this repository.
+
 
