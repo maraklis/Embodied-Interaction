@@ -58,9 +58,9 @@ In conclusion (refer to the RQ).
 ### Framework Connecting Laban Movement Analysis to Emotions
 Based on the research, this project indicates which emotions relate to what movement quality. Below you can see how the participants reflected their experience. 
 
-### Applied
+### Before the Name (Prototype)
 #### Idea and Purpose
-Lastly, I created a prototype game showcasing how this project could be used in a real-life scenario. The game helps the player identify their emotion, feel it, envision it and finally embody it. 
+Lastly, I created a prototype game called "*Before the Name*" showcasing how this project could be used in a real-life scenario. The game helps the player identify their emotion, feel it, envision it and finally embody it. 
 Body stores a lot of memories and traumas. Trying to feel the body, identify how it changes and which parts are effected by a specific emotion help to cope with uncomfortable situations. 
 As a result, they learn that the emotions are "companions" which support them, instead of leading them. They also learn how to navigate and become more emotionally intelligent.
 After a more in-depth research and collaboration with clinical settings, this project could be used as a part of therapy.
@@ -69,8 +69,8 @@ After a more in-depth research and collaboration with clinical settings, this pr
 #### Animation
 Procreate and Premiere Pro were used to create 2D frame-by-frame animation shots and for editing. Next, audio was recorded using a phone and sound effect and background music was used from Freesound.
 <img width="2905" height="1712" alt="Untitled-7" src="https://github.com/user-attachments/assets/86e0c13c-c883-4b18-9422-adbf1003a181" />
-
-
+#### Watch Here
+Here you can see the gameplay: https://youtu.be/-1qtKx0DC3o
 
 
 
