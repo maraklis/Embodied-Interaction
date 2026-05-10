@@ -8,7 +8,24 @@ As a final outcome, the research was translated into a prototype game called **"
 How does the conflict between visual appearance and movement cues influence perceived personality, and does this influence change after embodiment?
 
 ## Process
-### Research
+### Research (Main References)
+This project started from an interest in **embodied cognition** and how people emotionally connect with digital characters through the body and movement. One of the main inspirations was the paper [*An Embodied Cognition Approach for Understanding Role-playing*](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A582207&dswid=-4637), which explains how cognition is connected not only to the brain, but also to the body and the environment around us.
+
+The paper discusses how performing an action, observing it, or even imagining it can activate similar mental processes. Because of this, fictional experiences and role-playing can feel emotionally real. A concept that became especially relevant for this project was *bleed*, which is the emotional transfer between player and character. This raised an important question: if movement is embodied physically, can it change how a digital character is emotionally perceived?
+
+Another important inspiration was Timur Shakirov’s paper [*The Impact of Emotional Design Features on Character Perception*](https://www.researchgate.net/profile/Timur-Shakirov-4/publication/381609657_The_Impact_of_Emotional_Design_Features_on_Character_Perception/links/6675f24ed21e220d89c82468/The-Impact-of-Emotional-Design-Features-on-Character-Perception.pdf), which explored how colours and shapes influence how people perceive digital characters emotionally. The research found strong connections between emotional design features and character perception, especially when using primary colours and simple geometric shapes. The study also suggested that colour may influence perception more strongly than shape, while secondary colours can lead to more ambiguous emotional interpretations.
+
+This research became the starting point for my project. While the paper focused mainly on visual appearance, I wanted to take the idea further by adding an embodied movement-based element.
+
+The goal became to connect these two ideas:
+
+* emotional perception through **visual design**,
+* and emotional perception through **embodied movement**.
+
+To explore this, the project combined character design, motion capture, embodied interaction, and **Laban Movement Analysis (LMA)**, which was used to connect different movement qualities to emotions such as joy, sadness, anger, disgust, and fear.
+
+The project investigates whether people rely more on how a character **looks** or how it **moves**, especially when those elements conflict, and whether embodiment changes that perception.
+
 
 ### Character Design
 <img width="5026" height="3431" alt="IMG_6035" src="https://github.com/user-attachments/assets/4cf43722-fc96-45ce-8038-9eff06022ad0" />
