@@ -27,11 +27,11 @@ The aim was to create visual identities that could immediately communicate emoti
 
 The models were created in Blender and imported into Mixamo for rigging. The rigs were later cleaned and adjusted manually inside Unreal Engine to prepare them for animation retargeting and motion capture integration.
 
-### Motion Capture with Rokoko Vision
-<img width="1629" height="770" alt="Screenshot 2026-05-10 at 19 28 48" src="https://github.com/user-attachments/assets/78bf5539-0aab-4a2e-be4e-fc3343e54515" />
+### Motion Capture with Rokoko
+<img width="1856" height="592" alt="Untitled-10" src="https://github.com/user-attachments/assets/48b4cdd6-e07e-4cd8-9652-6ebb26688468" />
 
 
-To express emotions physically, motion capture performances were recorded using Rokoko Vision. Ten movement sequences were captured and exported, each representing different emotional qualities connected to the selected emotions.
+To express emotions physically, motion capture performances were recorded using Rokoko Vision and Rokoko suits. Ten movement sequences were captured and exported, each representing different emotional qualities connected to the selected emotions.
 
 ### Testing Preparation in Unreal Engine
 <img width="1670" height="903" alt="Screenshot 2026-05-10 at 19 33 18" src="https://github.com/user-attachments/assets/14cceac0-3e30-4533-b6fe-96619f6011cd" />
@@ -77,6 +77,9 @@ Additionally, all participants reported that their own movement influenced how t
 The findings suggest that embodiment strengthens the emotional importance of movement and can fundamentally shift how personality and emotion are perceived in digital characters.
 
 ### Framework Connecting Laban Movement Analysis to Emotions
+<img width="1232" height="528" alt="Untitled-8" src="https://github.com/user-attachments/assets/72967a7f-55e4-4208-b7fd-d4967618b96b" />
+<img width="2942" height="656" alt="Untitled-9" src="https://github.com/user-attachments/assets/3b426f52-afc6-423f-91bb-caacb207446c" />
+
 Based on participant responses and movement analysis, the project developed an experimental framework connecting emotions to specific Laban Movement Analysis qualities.
 
 ### Before the Name (Prototype)
