@@ -99,7 +99,7 @@ The findings suggest that embodiment strengthens the emotional importance of mov
 
 Based on participant responses and movement analysis, the project developed an experimental framework connecting emotions to specific Laban Movement Analysis qualities.
 
-### Before the Name (Prototype)
+### *Before the Name* (Prototype)
 
 #### Idea and Purpose
 As a final outcome, the research was translated into an interactive prototype called "*Before the Name*". \
@@ -140,4 +140,8 @@ Gameplay video: https://youtu.be/-1qtKx0DC3o
 ### Available Files
 Since GitHub does not allow large files, Unreal project used for testing cannot be fully uploaded. Instead the uproject, umap, Unreal Mannequin (mesh and rig), models with skeletons (.fbx) and animations can be found in this repository.
 
+## Important Links
+Test: https://docs.google.com/forms/d/e/1FAIpQLSe_dhthRZ6LKWrkA_9eZqBAnmjcOnmwupbYBL3ktX_E4JAzLw/viewform?pli=1&pli=1&pli=1
 
+
+*Before the Name* gameplay video: https://youtu.be/-1qtKx0DC3o
